@@ -1,0 +1,26 @@
+$body-color: rgba(16, 16, 15, 0.598);
+
+body {
+  color: $body-color;
+  display: flex;
+}
+.app{
+  color: red;
+  background-color: rgb(186, 227, 1);
+}
+.a{
+  color: red;
+}
+.used {
+  width: 200px;
+  height: 200px;
+  background: #ccc;
+}
+
+.unused {
+  background: chocolate;
+}
+
+#root{
+  color: red;
+}
